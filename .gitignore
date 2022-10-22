@@ -1,3 +1,18 @@
+#################
+## OOMLOUT
+#################
+
+*fp-info-cache
+*backup*
+Backup_*.*
+redirect/
+sourceFiles/
+
+### open office
+*~lock*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

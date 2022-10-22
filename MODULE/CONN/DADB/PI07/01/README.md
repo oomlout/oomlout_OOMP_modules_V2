@@ -1,0 +1,28 @@
+
+
+
+  
+NO IMAGE  
+# MCD7 > 
+
+- ID: MODULE-CONN-DADB-PI07-01
+- Hex ID: MCD7
+- Name: 
+- Description: 
+- Long Link: [http://oom.lt/MODULE-CONN-DADB-PI07-01](http://oom.lt/MODULE-CONN-DADB-PI07-01)
+- Short Link: [http://oom.lt/MCD7](http://oom.lt/MCD7)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|MODULE|
+|OOMP Size|oompSize|CONN|
+|OOMP Color|oompColor|DADB|
+|OOMP Description|oompDesc|PI07|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|MODULE-CONN-DADB-PI07-01|
+|Hex ID (short code)|hexID|MCD7|
+||||
