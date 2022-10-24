@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# MCD6 > 
+# MCD6 > 6 Pin
 
 - ID: MODULE-CONN-DADB-PI06-01
 - Hex ID: MCD6
-- Name: 
-- Description: 
+- Name: 6 Pin
+- Description: 6 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI06-01](http://oom.lt/MODULE-CONN-DADB-PI06-01)
 - Short Link: [http://oom.lt/MCD6](http://oom.lt/MCD6)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MODULE-CONN-DADB-PI06-01|
 |Hex ID (short code)|hexID|MCD6|
+|name|name|6 Pin|
 ||||

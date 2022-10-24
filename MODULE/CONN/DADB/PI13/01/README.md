@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# MCD13 > 
+# MCD13 > 13 Pin
 
 - ID: MODULE-CONN-DADB-PI13-01
 - Hex ID: MCD13
-- Name: 
-- Description: 
+- Name: 13 Pin
+- Description: 13 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI13-01](http://oom.lt/MODULE-CONN-DADB-PI13-01)
 - Short Link: [http://oom.lt/MCD13](http://oom.lt/MCD13)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MODULE-CONN-DADB-PI13-01|
 |Hex ID (short code)|hexID|MCD13|
+|name|name|13 Pin|
 ||||

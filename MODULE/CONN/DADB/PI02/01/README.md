@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# MCD2 > 
+# MCD2 > 2 Pin
 
 - ID: MODULE-CONN-DADB-PI02-01
 - Hex ID: MCD2
-- Name: 
-- Description: 
+- Name: 2 Pin
+- Description: 2 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI02-01](http://oom.lt/MODULE-CONN-DADB-PI02-01)
 - Short Link: [http://oom.lt/MCD2](http://oom.lt/MCD2)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MODULE-CONN-DADB-PI02-01|
 |Hex ID (short code)|hexID|MCD2|
+|name|name|2 Pin|
 ||||

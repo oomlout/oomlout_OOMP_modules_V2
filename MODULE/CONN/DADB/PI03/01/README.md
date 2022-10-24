@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# MCD3 > 
+# MCD3 > 3 Pin
 
 - ID: MODULE-CONN-DADB-PI03-01
 - Hex ID: MCD3
-- Name: 
-- Description: 
+- Name: 3 Pin
+- Description: 3 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI03-01](http://oom.lt/MODULE-CONN-DADB-PI03-01)
 - Short Link: [http://oom.lt/MCD3](http://oom.lt/MCD3)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MODULE-CONN-DADB-PI03-01|
 |Hex ID (short code)|hexID|MCD3|
+|name|name|3 Pin|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# MCD20 > 
+# MCD20 > 20 Pin
 
 - ID: MODULE-CONN-DADB-PI20-01
 - Hex ID: MCD20
-- Name: 
-- Description: 
+- Name: 20 Pin
+- Description: 20 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI20-01](http://oom.lt/MODULE-CONN-DADB-PI20-01)
 - Short Link: [http://oom.lt/MCD20](http://oom.lt/MCD20)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MODULE-CONN-DADB-PI20-01|
 |Hex ID (short code)|hexID|MCD20|
+|name|name|20 Pin|
 ||||

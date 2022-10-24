@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# MCD16 > 
+# MCD16 > 16 Pin
 
 - ID: MODULE-CONN-DADB-PI16-01
 - Hex ID: MCD16
-- Name: 
-- Description: 
+- Name: 16 Pin
+- Description: 16 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI16-01](http://oom.lt/MODULE-CONN-DADB-PI16-01)
 - Short Link: [http://oom.lt/MCD16](http://oom.lt/MCD16)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MODULE-CONN-DADB-PI16-01|
 |Hex ID (short code)|hexID|MCD16|
+|name|name|16 Pin|
 ||||
