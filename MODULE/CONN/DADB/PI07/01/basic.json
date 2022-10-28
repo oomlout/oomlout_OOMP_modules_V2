@@ -1,0 +1,45 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "MCD7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "7 Pin"
+    ],
+    "oompColor": [
+        "DADB"
+    ],
+    "oompDesc": [
+        "PI07"
+    ],
+    "oompID": [
+        "MODULE-CONN-DADB-PI07-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "MODULE"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

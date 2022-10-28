@@ -1,0 +1,45 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "BMS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "STAN"
+    ],
+    "oompDesc": [
+        "STAN"
+    ],
+    "oompID": [
+        "BLOCK-MCUU-STAN-STAN-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "MCUU"
+    ],
+    "oompType": [
+        "BLOCK"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

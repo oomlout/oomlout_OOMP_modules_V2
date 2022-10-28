@@ -1,0 +1,45 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "MCBI1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "BRBO"
+    ],
+    "oompDesc": [
+        "IBBC"
+    ],
+    "oompID": [
+        "MODULE-CONN-BRBO-IBBC-SZ01"
+    ],
+    "oompIndex": [
+        "SZ01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "MODULE"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

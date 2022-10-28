@@ -1,0 +1,45 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "BSAI"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "ACCEL"
+    ],
+    "oompDesc": [
+        "I2C"
+    ],
+    "oompID": [
+        "BLOCK-SENS-ACCEL-I2C-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "SENS"
+    ],
+    "oompType": [
+        "BLOCK"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

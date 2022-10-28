@@ -1,0 +1,45 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "BCIE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "I2C"
+    ],
+    "oompDesc": [
+        "EXTRA"
+    ],
+    "oompID": [
+        "BLOCK-CONN-I2C-EXTRA-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "BLOCK"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

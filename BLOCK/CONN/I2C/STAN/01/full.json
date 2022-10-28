@@ -1,0 +1,68 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "BCI"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "I2C"
+    ],
+    "oompDesc": [
+        "STAN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/details.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/detailspartsRaw.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/README.md"
+        ]
+    },
+    "oompID": [
+        "BLOCK-CONN-I2C-STAN-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "BLOCK"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

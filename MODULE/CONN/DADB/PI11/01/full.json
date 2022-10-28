@@ -1,0 +1,68 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "MCD11"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "11 Pin"
+    ],
+    "oompColor": [
+        "DADB"
+    ],
+    "oompDesc": [
+        "PI11"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/details.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/detailspartsRaw.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI11/01/README.md"
+        ]
+    },
+    "oompID": [
+        "MODULE-CONN-DADB-PI11-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "MODULE"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

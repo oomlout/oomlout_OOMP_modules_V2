@@ -1,0 +1,68 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "BCRP2040"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "RASP"
+    ],
+    "oompDesc": [
+        "PICO"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/details.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/detailspartsRaw.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/README.md"
+        ]
+    },
+    "oompID": [
+        "BLOCK-CONN-RASP-PICO-2040"
+    ],
+    "oompIndex": [
+        "2040"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "BLOCK"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,68 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "MP2112"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        ""
+    ],
+    "oompColor": [
+        "KAP2112K"
+    ],
+    "oompDesc": [
+        "STAN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/details.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/detailspartsRaw.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_modules_V2/MODULE/POWE/KAP2112K/STAN/01/README.md"
+        ]
+    },
+    "oompID": [
+        "MODULE-POWE-KAP2112K-STAN-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "POWE"
+    ],
+    "oompType": [
+        "MODULE"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

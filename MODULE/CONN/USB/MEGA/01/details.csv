@@ -1,3 +1,3 @@
 CSV Line for;MODULE-CONN-USB-MEGA-01;
-OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;OOMP Parts List;
-"MODULE";"CONN";"USB";"MEGA";"01";"MODULE-CONN-USB-MEGA-01";"MCUMEGA";"";;;;;;;;;;;;;;;;;;
+OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;OOMP Parts List;OOMP Instances;Parts as pulled from a BOM;
+"MODULE";"CONN";"USB";"MEGA";"01";"MODULE-CONN-USB-MEGA-01";"MCUMEGA";"";;;;;;;;;;;;;;;;;;;;
