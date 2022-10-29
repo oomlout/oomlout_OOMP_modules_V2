@@ -11,6 +11,8 @@ NO IMAGE
 - Description: 
 - Long Link: [http://oom.lt/MODULE-CONN-I2C-QWIIC-01](http://oom.lt/MODULE-CONN-I2C-QWIIC-01)
 - Short Link: [http://oom.lt/MCQ](http://oom.lt/MCQ)
+
+## OOMP Parts
   
 NO IMAGES  
 ## Tags

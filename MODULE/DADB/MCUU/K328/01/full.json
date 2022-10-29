@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_modules_V2/MODULE/DADB/MCUU/K328/01/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_modules_V2/MODULE/DADB/MCUU/K328/01/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_modules_V2/MODULE/DADB/MCUU/K328/01/README.md"
         ]

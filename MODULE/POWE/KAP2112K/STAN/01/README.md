@@ -11,6 +11,8 @@ NO IMAGE
 - Description: 
 - Long Link: [http://oom.lt/MODULE-POWE-KAP2112K-STAN-01](http://oom.lt/MODULE-POWE-KAP2112K-STAN-01)
 - Short Link: [http://oom.lt/MP2112](http://oom.lt/MP2112)
+
+## OOMP Parts
   
 NO IMAGES  
 ## Tags

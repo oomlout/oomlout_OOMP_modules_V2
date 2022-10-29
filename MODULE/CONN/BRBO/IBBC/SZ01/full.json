@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_modules_V2/MODULE/CONN/BRBO/IBBC/SZ01/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/BRBO/IBBC/SZ01/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_modules_V2/MODULE/CONN/BRBO/IBBC/SZ01/README.md"
         ]

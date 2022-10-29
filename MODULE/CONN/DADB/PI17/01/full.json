@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI17/01/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI17/01/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI17/01/README.md"
         ]

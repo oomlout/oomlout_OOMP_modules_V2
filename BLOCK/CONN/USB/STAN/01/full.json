@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_modules_V2/BLOCK/CONN/USB/STAN/01/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_modules_V2/BLOCK/CONN/USB/STAN/01/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_modules_V2/BLOCK/CONN/USB/STAN/01/README.md"
         ]
