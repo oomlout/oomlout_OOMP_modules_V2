@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [MP1117 > ](#mp1117--)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # MP1117 > 
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-POWE-KLD1117-SO23-01](http://oom.lt/MODULE-POWE-KLD1117-SO23-01)
 - Short Link: [http://oom.lt/MP1117](http://oom.lt/MP1117)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/POWE/KLD1117/SO23/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [MP2112 > ](#mp2112--)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # MP2112 > 
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-POWE-KAP2112K-STAN-01](http://oom.lt/MODULE-POWE-KAP2112K-STAN-01)
 - Short Link: [http://oom.lt/MP2112](http://oom.lt/MP2112)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/POWE/KAP2112K/STAN/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

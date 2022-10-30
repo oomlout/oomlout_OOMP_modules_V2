@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [MCRP2040 > ](#mcrp2040--)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # MCRP2040 > 
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-CONN-RASP-PICO-2040](http://oom.lt/MODULE-CONN-RASP-PICO-2040)
 - Short Link: [http://oom.lt/MCRP2040](http://oom.lt/MCRP2040)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/CONN/RASP/PICO/2040/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [BCIE > ](#bcie--)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # BCIE > 
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/BLOCK-CONN-I2C-EXTRA-01](http://oom.lt/BLOCK-CONN-I2C-EXTRA-01)
 - Short Link: [http://oom.lt/BCIE](http://oom.lt/BCIE)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/BLOCK/CONN/I2C/EXTRA/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

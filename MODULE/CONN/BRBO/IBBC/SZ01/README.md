@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [MCBI1 > ](#mcbi1--)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # MCBI1 > 
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-CONN-BRBO-IBBC-SZ01](http://oom.lt/MODULE-CONN-BRBO-IBBC-SZ01)
 - Short Link: [http://oom.lt/MCBI1](http://oom.lt/MCBI1)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/CONN/BRBO/IBBC/SZ01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  
