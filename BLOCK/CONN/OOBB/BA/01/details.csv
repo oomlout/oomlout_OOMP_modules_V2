@@ -1,3 +1,2 @@
-CSV Line for;BLOCK-CONN-OOBB-BA-01;
-OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Footprint Eagle;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;Symbol Eagle;Symbol Eagle Details;OOMP Parts List;OOMP Instances;Parts as pulled from a BOM;
-"BLOCK";"CONN";"OOBB";"BA";"01";"BLOCK-CONN-OOBB-BA-01";"BCOBA";"";;;;;;;;;;;;;;;;;;;;;;;;
+OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Footprint Eagle;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;Symbol Eagle;Symbol Eagle Details;OOMP Parts List;OOMP Instances;Parts as pulled from a BOM
+BLOCK;CONN;OOBB;BA;01;BLOCK-CONN-OOBB-BA-01;BCOBA;;;;;;;;;;;;;;;;;;;;;;;;

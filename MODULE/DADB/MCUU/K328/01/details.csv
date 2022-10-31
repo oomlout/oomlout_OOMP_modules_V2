@@ -1,3 +1,2 @@
-CSV Line for;MODULE-DADB-MCUU-K328-01;AtMega328P
-OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Footprint Eagle;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;Symbol Eagle;Symbol Eagle Details;OOMP Parts List;OOMP Instances;Parts as pulled from a BOM;
-"MODULE";"DADB";"MCUU";"K328";"01";"MODULE-DADB-MCUU-K328-01";"MD328M";"AtMega328P";;;;;;;;;;;;;;;;;;;;;;;;
+OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (short code);name;description;code;collection;gitRepo;gitName;eagleBoard;eagleSchem;kicadBoard;kicadSchem;Part Number (Manufacturer);Part Number (Distributor);Part Number (OPL);Footprint Kicad;Footprint Kicad;Footprint Eagle;Footprint Kicad;Symbol Kicad;Symbol Kicad Details;Symbol Eagle;Symbol Eagle Details;OOMP Parts List;OOMP Instances;Parts as pulled from a BOM
+MODULE;DADB;MCUU;K328;01;MODULE-DADB-MCUU-K328-01;MD328M;AtMega328P;;;;;;;;;;;;;;;;;;;;;;;
