@@ -6,7 +6,6 @@ Contents
 ========
 
 * [MCD2 > ](#mcd2--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-CONN-DCJP-21D-01](http://oom.lt/MODULE-CONN-DCJP-21D-01)
 - Short Link: [http://oom.lt/MCD2](http://oom.lt/MCD2)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/CONN/DCJP/21D/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

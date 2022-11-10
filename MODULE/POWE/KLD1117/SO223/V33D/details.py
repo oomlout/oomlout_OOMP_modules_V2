@@ -5,8 +5,8 @@ def load(newPart,it):
     oType = "MODULE"
     oSize = "POWE"
     oColor = "KLD1117"
-    oDesc = "SO23"
-    oIndex = "01"
+    oDesc = "SO223"
+    oIndex = "V33D"
     hexID = "MP1117"
 
     newPart['oompType'].append(oType)

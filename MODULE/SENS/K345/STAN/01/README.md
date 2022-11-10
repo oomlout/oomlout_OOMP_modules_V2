@@ -6,7 +6,6 @@ Contents
 ========
 
 * [MS345 > ](#ms345--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-SENS-K345-STAN-01](http://oom.lt/MODULE-SENS-K345-STAN-01)
 - Short Link: [http://oom.lt/MS345](http://oom.lt/MS345)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/SENS/K345/STAN/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

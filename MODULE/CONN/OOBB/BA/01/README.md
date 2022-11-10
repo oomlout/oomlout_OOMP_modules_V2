@@ -6,7 +6,6 @@ Contents
 ========
 
 * [MCOBA > ](#mcoba--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-CONN-OOBB-BA-01](http://oom.lt/MODULE-CONN-OOBB-BA-01)
 - Short Link: [http://oom.lt/MCOBA](http://oom.lt/MCOBA)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/CONN/OOBB/BA/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

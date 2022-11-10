@@ -6,7 +6,6 @@ Contents
 ========
 
 * [BMS > ](#bms--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/BLOCK-MCUU-STAN-STAN-01](http://oom.lt/BLOCK-MCUU-STAN-STAN-01)
 - Short Link: [http://oom.lt/BMS](http://oom.lt/BMS)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/BLOCK/MCUU/STAN/STAN/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

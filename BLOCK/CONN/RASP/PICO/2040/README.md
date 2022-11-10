@@ -6,7 +6,6 @@ Contents
 ========
 
 * [BCRP2040 > ](#bcrp2040--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/BLOCK-CONN-RASP-PICO-2040](http://oom.lt/BLOCK-CONN-RASP-PICO-2040)
 - Short Link: [http://oom.lt/BCRP2040](http://oom.lt/BCRP2040)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/BLOCK/CONN/RASP/PICO/2040/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

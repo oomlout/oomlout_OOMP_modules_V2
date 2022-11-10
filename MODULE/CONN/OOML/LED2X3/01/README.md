@@ -6,7 +6,6 @@ Contents
 ========
 
 * [MCOL23 > ](#mcol23--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-CONN-OOML-LED2X3-01](http://oom.lt/MODULE-CONN-OOML-LED2X3-01)
 - Short Link: [http://oom.lt/MCOL23](http://oom.lt/MCOL23)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/CONN/OOML/LED2X3/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [BCPR > ](#bcpr--)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/BLOCK-CONN-PROG-STAN-01](http://oom.lt/BLOCK-CONN-PROG-STAN-01)
 - Short Link: [http://oom.lt/BCPR](http://oom.lt/BCPR)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/BLOCK/CONN/PROG/STAN/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [MCD21 > 21 Pin](#mcd21--21-pin)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI21-01](http://oom.lt/MODULE-CONN-DADB-PI21-01)
 - Short Link: [http://oom.lt/MCD21](http://oom.lt/MCD21)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/MODULE/CONN/DADB/PI21/01/ibom.html)
 ## OOMP Parts
   
 NO IMAGES  
