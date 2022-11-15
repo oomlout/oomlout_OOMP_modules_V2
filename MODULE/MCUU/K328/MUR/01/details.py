@@ -3,11 +3,11 @@
 
 def load(newPart,it):
     oType = "MODULE"
-    oSize = "CONN"
-    oColor = "I2C"
-    oDesc = "QWIIC"
+    oSize = "MCUU"
+    oColor = "K328"
+    oDesc = "MUR"
     oIndex = "01"
-    hexID = "MCQI01"
+    hexID = "MM328M"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)

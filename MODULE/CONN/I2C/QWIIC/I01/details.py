@@ -6,7 +6,7 @@ def load(newPart,it):
     oSize = "CONN"
     oColor = "I2C"
     oDesc = "QWIIC"
-    oIndex = "01"
+    oIndex = "I01"
     hexID = "MCQI01"
 
     newPart['oompType'].append(oType)
