@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI03-01
 - Hex ID: MCD3
 - Name: 3 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI03/01/
 - Description: 3 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI03-01](http://oom.lt/MODULE-CONN-DADB-PI03-01)
 - Short Link: [http://oom.lt/MCD3](http://oom.lt/MCD3)

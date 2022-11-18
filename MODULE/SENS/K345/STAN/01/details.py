@@ -17,6 +17,8 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['matchingBlock'].append('BLOCK-SENS-ACCEL-I2C-01')
+    newPart['oompParts'].append({'U1': {'OOMPID': 'SENS-LG14-X-K345-01'}})
 
 
     ######  Common

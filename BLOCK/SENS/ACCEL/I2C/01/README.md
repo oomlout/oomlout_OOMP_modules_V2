@@ -15,6 +15,7 @@ NO IMAGE
 - ID: BLOCK-SENS-ACCEL-I2C-01
 - Hex ID: BSAI
 - Name: 
+- Path: oomlout_OOMP_modules_V2/BLOCK/SENS/ACCEL/I2C/01/
 - Description: 
 - Long Link: [http://oom.lt/BLOCK-SENS-ACCEL-I2C-01](http://oom.lt/BLOCK-SENS-ACCEL-I2C-01)
 - Short Link: [http://oom.lt/BSAI](http://oom.lt/BSAI)

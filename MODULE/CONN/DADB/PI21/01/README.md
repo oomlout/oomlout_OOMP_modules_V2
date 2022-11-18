@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI21-01
 - Hex ID: MCD21
 - Name: 21 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI21/01/
 - Description: 21 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI21-01](http://oom.lt/MODULE-CONN-DADB-PI21-01)
 - Short Link: [http://oom.lt/MCD21](http://oom.lt/MCD21)

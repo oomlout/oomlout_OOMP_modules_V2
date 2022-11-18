@@ -15,6 +15,7 @@ NO IMAGE
 - ID: BLOCK-CONN-OOBB-BA-01
 - Hex ID: BCOBA
 - Name: 
+- Path: oomlout_OOMP_modules_V2/BLOCK/CONN/OOBB/BA/01/
 - Description: 
 - Long Link: [http://oom.lt/BLOCK-CONN-OOBB-BA-01](http://oom.lt/BLOCK-CONN-OOBB-BA-01)
 - Short Link: [http://oom.lt/BCOBA](http://oom.lt/BCOBA)

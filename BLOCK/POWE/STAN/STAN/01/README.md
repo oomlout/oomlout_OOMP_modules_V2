@@ -15,6 +15,7 @@ NO IMAGE
 - ID: BLOCK-POWE-STAN-STAN-01
 - Hex ID: BPS
 - Name: 
+- Path: oomlout_OOMP_modules_V2/BLOCK/POWE/STAN/STAN/01/
 - Description: 
 - Long Link: [http://oom.lt/BLOCK-POWE-STAN-STAN-01](http://oom.lt/BLOCK-POWE-STAN-STAN-01)
 - Short Link: [http://oom.lt/BPS](http://oom.lt/BPS)

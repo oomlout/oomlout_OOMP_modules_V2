@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI12-01
 - Hex ID: MCD12
 - Name: 12 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI12/01/
 - Description: 12 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI12-01](http://oom.lt/MODULE-CONN-DADB-PI12-01)
 - Short Link: [http://oom.lt/MCD12](http://oom.lt/MCD12)

@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI17-01
 - Hex ID: MCD17
 - Name: 17 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI17/01/
 - Description: 17 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI17-01](http://oom.lt/MODULE-CONN-DADB-PI17-01)
 - Short Link: [http://oom.lt/MCD17](http://oom.lt/MCD17)

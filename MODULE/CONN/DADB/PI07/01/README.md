@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI07-01
 - Hex ID: MCD7
 - Name: 7 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI07/01/
 - Description: 7 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI07-01](http://oom.lt/MODULE-CONN-DADB-PI07-01)
 - Short Link: [http://oom.lt/MCD7](http://oom.lt/MCD7)

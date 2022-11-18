@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI18-01
 - Hex ID: MCD18
 - Name: 18 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI18/01/
 - Description: 18 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI18-01](http://oom.lt/MODULE-CONN-DADB-PI18-01)
 - Short Link: [http://oom.lt/MCD18](http://oom.lt/MCD18)

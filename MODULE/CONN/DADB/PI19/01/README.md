@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI19-01
 - Hex ID: MCD19
 - Name: 19 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI19/01/
 - Description: 19 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI19-01](http://oom.lt/MODULE-CONN-DADB-PI19-01)
 - Short Link: [http://oom.lt/MCD19](http://oom.lt/MCD19)

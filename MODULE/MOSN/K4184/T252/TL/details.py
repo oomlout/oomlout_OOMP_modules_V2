@@ -17,6 +17,8 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['matchingBlock'].append('BLOCK-MCUU-STAN-STAN-01')
+    newPart['oompParts'].append({'Q1': {'OOMPID': 'MOSN-T252-X-K4184-01'}, 'Q2': {'OOMPID': 'TRNN-SO23-X-KSS8050-01'}})
 
 
     ######  Common

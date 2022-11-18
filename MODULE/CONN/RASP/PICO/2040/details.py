@@ -17,6 +17,8 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['matchingBlock'].append('BLOCK-CONN-RASP-PICO-2040')
+    newPart['oompParts'].append({'J1': {'OOMPID': 'HEAD-I01-X-PI20-01'}, 'J2': {'OOMPID': 'HEAD-I01-X-PI20-01'}})
 
 
     ######  Common

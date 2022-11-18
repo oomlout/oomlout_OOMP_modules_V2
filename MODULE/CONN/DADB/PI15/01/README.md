@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI15-01
 - Hex ID: MCD15
 - Name: 15 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI15/01/
 - Description: 15 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI15-01](http://oom.lt/MODULE-CONN-DADB-PI15-01)
 - Short Link: [http://oom.lt/MCD15](http://oom.lt/MCD15)

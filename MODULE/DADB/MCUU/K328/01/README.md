@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-DADB-MCUU-K328-01
 - Hex ID: MD328M
 - Name: AtMega328P
+- Path: oomlout_OOMP_modules_V2/MODULE/DADB/MCUU/K328/01/
 - Description: AtMega328P
 - Long Link: [http://oom.lt/MODULE-DADB-MCUU-K328-01](http://oom.lt/MODULE-DADB-MCUU-K328-01)
 - Short Link: [http://oom.lt/MD328M](http://oom.lt/MD328M)

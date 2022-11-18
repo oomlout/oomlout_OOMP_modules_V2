@@ -15,6 +15,7 @@ NO IMAGE
 - ID: BLOCK-CONN-I2C-STAN-01
 - Hex ID: BCI
 - Name: 
+- Path: oomlout_OOMP_modules_V2/BLOCK/CONN/I2C/STAN/01/
 - Description: 
 - Long Link: [http://oom.lt/BLOCK-CONN-I2C-STAN-01](http://oom.lt/BLOCK-CONN-I2C-STAN-01)
 - Short Link: [http://oom.lt/BCI](http://oom.lt/BCI)

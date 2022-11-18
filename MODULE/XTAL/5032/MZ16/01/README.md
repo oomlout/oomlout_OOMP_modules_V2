@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-XTAL-5032-MZ16-01
 - Hex ID: MX53M16
 - Name: 16 MHz 5032
+- Path: oomlout_OOMP_modules_V2/MODULE/XTAL/5032/MZ16/01/
 - Description: 16 MHz 5032
 - Long Link: [http://oom.lt/MODULE-XTAL-5032-MZ16-01](http://oom.lt/MODULE-XTAL-5032-MZ16-01)
 - Short Link: [http://oom.lt/MX53M16](http://oom.lt/MX53M16)

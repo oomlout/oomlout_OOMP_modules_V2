@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI08-01
 - Hex ID: MCD8
 - Name: 8 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI08/01/
 - Description: 8 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI08-01](http://oom.lt/MODULE-CONN-DADB-PI08-01)
 - Short Link: [http://oom.lt/MCD8](http://oom.lt/MCD8)

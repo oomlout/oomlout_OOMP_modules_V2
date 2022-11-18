@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-MCUU-K328-MUR-01
 - Hex ID: MM328M
 - Name: 
+- Path: oomlout_OOMP_modules_V2/MODULE/MCUU/K328/MUR/01/
 - Description: 
 - Long Link: [http://oom.lt/MODULE-MCUU-K328-MUR-01](http://oom.lt/MODULE-MCUU-K328-MUR-01)
 - Short Link: [http://oom.lt/MM328M](http://oom.lt/MM328M)

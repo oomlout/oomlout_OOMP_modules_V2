@@ -15,6 +15,7 @@ NO IMAGE
 - ID: MODULE-CONN-DADB-PI09-01
 - Hex ID: MCD9
 - Name: 9 Pin
+- Path: oomlout_OOMP_modules_V2/MODULE/CONN/DADB/PI09/01/
 - Description: 9 Pin
 - Long Link: [http://oom.lt/MODULE-CONN-DADB-PI09-01](http://oom.lt/MODULE-CONN-DADB-PI09-01)
 - Short Link: [http://oom.lt/MCD9](http://oom.lt/MCD9)

@@ -15,6 +15,7 @@ NO IMAGE
 - ID: BLOCK-CONN-RASP-PICO-2040
 - Hex ID: BCRP2040
 - Name: 
+- Path: oomlout_OOMP_modules_V2/BLOCK/CONN/RASP/PICO/2040/
 - Description: 
 - Long Link: [http://oom.lt/BLOCK-CONN-RASP-PICO-2040](http://oom.lt/BLOCK-CONN-RASP-PICO-2040)
 - Short Link: [http://oom.lt/BCRP2040](http://oom.lt/BCRP2040)
