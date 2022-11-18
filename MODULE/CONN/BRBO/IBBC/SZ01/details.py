@@ -18,7 +18,8 @@ def load(newPart,it):
     newPart['oompID'].append(oompID)
 
     newPart['matchingBlock'].append('BLOCK-CONN-I2C-EXTRA-01')
-    newPart['oompParts'].append({'J1': {'OOMPID': 'HEAD-I01-X-PI06-01'}, 'J2': {'OOMPID': 'HEAD-I01-X-PI06-01'}})
+    newPart['oompParts'].append('J1,HEAD-I01-X-PI06-01')
+    newPart['oompParts'].append('J2,HEAD-I01-X-PI06-01')
     newPart['componentModules'].append('M1,MODULE-CONN-I2C-QWIIC-01')
     newPart['componentModules'].append('M2,MODULE-CONN-I2C-QWIIC-01')
 

@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['oompParts'].append({'J1': {'OOMPID': 'HEAD-I01-X-PI2X03-01'}})
+    newPart['oompParts'].append('J1,HEAD-I01-X-PI2X03-01')
 
 
     ######  Common

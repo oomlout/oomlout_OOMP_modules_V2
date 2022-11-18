@@ -18,7 +18,7 @@ def load(newPart,it):
     newPart['oompID'].append(oompID)
 
     newPart['matchingBlock'].append('BLOCK-CONN-POWE-STAN-01')
-    newPart['oompParts'].append({'J1': {'OOMPID': 'DCJP-21D-X-STAN-01'}})
+    newPart['oompParts'].append('J1,DCJP-21D-X-STAN-01')
 
 
     ######  Common
