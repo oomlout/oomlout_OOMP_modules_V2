@@ -7,7 +7,7 @@ def load(newPart,it):
     oColor = "I2C"
     oDesc = "QWIIC"
     oIndex = "01"
-    hexID = "MCQI01"
+    hexID = "MCQ01"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -18,7 +18,7 @@ def load(newPart,it):
     newPart['oompID'].append(oompID)
 
     newPart['matchingBlock'].append('BLOCK-CONN-I2C-STAN-01')
-    newPart['oompParts'].append('J1,HEAD-JSTSH-X-PI04-RS')
+    newPart['oompParts'].append({'J1': {'OOMPID': 'HEAD-JSTSH-X-PI04-01'}})
 
 
     ######  Common
